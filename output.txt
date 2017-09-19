@@ -1,0 +1,8 @@
+Lesia  25 years Lesia  25 years Bohdan  40 years Volodymyr  35 years Modest  19 years 
+  curator: Lesia  25 years 
+Bohdan  20 years 
+  curator: Lesia  25 years 
+Mykola  19 years 
+  curator: Bohdan  40 years 
+Dmytro  19 years 
+  curator: Volodymyr  35 years 
